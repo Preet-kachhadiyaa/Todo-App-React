@@ -1,4 +1,4 @@
-.heading{
+.heading {
   margin-right: 122px;
 }
 
@@ -13,18 +13,22 @@
   padding-bottom: 122px;
 }
 
-.item{
+.item {
   text-align: left;
   /* margin-left: 100px; */
 }
 
-.msg{
+.msg {
   margin-right: 122px;
   font-size: 20px;
   font-weight: 600;
 }
 
-.items{
+.items {
   font-size: 20px;
   font-weight: 600;
+}
+
+.add {
+  margin-left: -5px;
 }
