@@ -1,0 +1,30 @@
+.heading{
+  margin-right: 122px;
+}
+
+.todo {
+  background-color: cyan;
+  border-radius: 55px;
+  border: 2px solid black;
+  margin-left: 122px;
+  margin-right: 120px;
+  padding-top: 12px;
+  padding-left: 122px;
+  padding-bottom: 122px;
+}
+
+.item{
+  text-align: left;
+  /* margin-left: 100px; */
+}
+
+.msg{
+  margin-right: 122px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.items{
+  font-size: 20px;
+  font-weight: 600;
+}
